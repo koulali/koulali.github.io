@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Achraf Koulali</title>
+    <link>https://koulali.github.io/</link>
+    <description>Recent content in About on Achraf Koulali</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://koulali.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://koulali.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koulali.github.io/about/</guid>
+      <description>About Me  I&amp;rsquo;m a Lecturer in Geospatial Engineering @ Newcastle University.
+Research Interest  Area of Expertise: Crustal Motion Geodesy  I use geodetic observations to study the active deformation of the Earth’s crust. Measurements of 3D crustal movements allow us to better understand modes of strain accumulation on major faults and the Earth’s rheology. My current research involves understanding how the solid Earth responds to changes in ice mass changes.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://koulali.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koulali.github.io/contact/</guid>
+      <description> Email: achraf.koulali@ncl.ac.uk Phone: +44(0)1912086739   Mailing Address  G.15 Cassie Building
+School of Engineering, Newcastle University
+Newcastle upon Tyne, NE1 7RU
+United Kingdom
+  Social  Twitter  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://koulali.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koulali.github.io/publications/</guid>
+      <description>Publications [14] Koulali A., Clarke P.J (2021, in press). Modelling quasi-periodic signals in geodetic time series using Gaussian Processes, Geophys. J. Int., submitted 2020-Sep-08; revised 2021-Apr-09; accepted 2021-Apr-19. 
+[13] Koulali, A., Clarke, P.J., (2020) Effect of antenna snow intrusion on vertical GPS position time series in Antarctica, J Geod 94, 101. 
+[12] Gordon Lister, Hrvoje Tkalčić, Babak Hejrani, Achraf Koulali, Eelco Rohling, Marnie Forster, Simon McClusky, (2018) Volcanic lineaments focus major earthquake ruptures on the Eas Japan megathrust, Lithosphere, 10 (4): 512–522.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://koulali.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koulali.github.io/resume/</guid>
+      <description>Research Experience 2018-2020 Research Associate * School of Engineering, Newcastle University. * Supervisor: Peter Clarke. * Measuring the glacial isostatic adjustment in Antarctica using GPS.  2012-2018 Postdoctoral Fellow * The Australian National University Research School of Earth Sciences. * Supervisors: Paul Tregoning &amp;amp; Simon McClusky. * Active tectonics of the south-east Asia.  2009-2011 Fulbright Scholar * Massachusetts Institute of Technology, Earth and PlanetarySciences Dept. * Supervisors: R.Reilinger &amp;amp; R.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://koulali.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koulali.github.io/teaching/</guid>
+      <description>Teaching Current  2021-2022 CEG1705: An Introduction to GNSS and its Applications The aim of the module is for students to understand the principles underlying the use of Global Navigation Satellite Systems (GNSSs) at metre and sub-metre accuracy for applications in surveying, GIS, transport, agriculture, asset management, and scientific studies.
+ 2020-2021 CEG3707: Geohazards and Deformation of the Earth. This module introduces a range of active research areas in geoscience, which benefit from the application of geodetic deformation monitoring techniques.</description>
+    </item>
+    
+  </channel>
+</rss>
