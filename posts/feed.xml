@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Koulali&#39;s website</title>
+    <link>https://koulali.github.io/posts/</link>
+    <description>Recent content in Posts on Koulali&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://koulali.github.io/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPS data processing with GAMIT/GLOBK: Introduction</title>
+      <link>https://koulali.github.io/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://koulali.github.io/posts/rich-content/</guid>
+      <description>Prerequisites, Installation</description>
+      <content:encoded><![CDATA[<p>GAMIT/GLOBK is a comprehensive GPS analysis package developed at MIT and Scripps for the estimation of three-dimensional relative positions of ground stations and satellite orbits. The software is designed to run under any UNIX operating system supporting XWindows. The primary output of GAMIT is a loosely constrained solution (H-) file of parameter estimates and covariances which can be passed to GLOBK for  combination of data to estimate station positions and velocities and orbital and Earth-rotation parameters.</p>
+<h2 id="unit-1---introduction-to-gps">UNIT 1 - introduction to GPS</h2>
+<p>For a short introduction to GNSS, I recommend watching the video below given by Thomas Herring part of
+the annual SAGE workshops organized by Earthscope.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/FCuJionk4RU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="gps-signal">GPS SIGNAL</h3>
+<p>Each GPS satellite broadcast signals on at least two carrier frequencies for positioning purposes:</p>
+<ul>
+<li><strong>L1 signal (carrier frequency of 1,575.42 MHz)</strong></li>
+</ul>
+<p>Modulated onto the L1 carrier are two pseudo-random noise (PRN) ranging codes and the navigation
+(broadcast) message. The codes (used to determine the pseudo-ranges) are:</p>
+<ul>
+<li>the 1 millisecond-long C/A-code (chipping rate about 1 MHz);</li>
+<li>the weeklong segment of the P-code (chipping rate about 10 MHz).</li>
+</ul>
+<p>The navigation (broadcast) message includes orbital information (ephemeris), the offset  $\delta t$ of the satellite clock
+from the GPS system time, information on the health of the satellite and the expected accuracy of
+the range measurements (UERE). The message contains also almanac data for other satellites
+(used by the receiver to determine the location of each satellite). For receivers that track the
+weeklong P-code, the broadcast message includes a special hand-over word (HOW), that tells the
+receiver where in the P-code to start searching.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

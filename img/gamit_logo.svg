@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="118.1989mm"
+   height="27.48279mm"
+   viewBox="0 0 118.1989 27.48279"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="gamit_logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="gamit_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69397447"
+     inkscape:cx="28.819504"
+     inkscape:cy="108.79363"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="52.646255"
+       y="362.53473"
+       width="701.19769"
+       height="238.07613"
+       id="rect236" />
+    <rect
+       x="52.646255"
+       y="362.53473"
+       width="701.19769"
+       height="238.07613"
+       id="rect236-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.976596,-119.4888)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.18322382,0,0,0.18322382,28.982385,50.381352)"
+       id="text234"
+       style="font-weight:bold;font-size:69.3141px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';white-space:pre;shape-inside:url(#rect236-3);display:inline;opacity:0.81;fill:#ffffff;stroke-width:0;stroke-miterlimit:3.2"
+       x="342.21609"
+       y="0"><tspan
+         x="79.548123"
+         y="425.55627"
+         id="tspan660"><tspan
+           style="text-align:center;text-anchor:middle;fill:#008080"
+           id="tspan644">G</tspan><tspan
+           style="fill:#cccccc"
+           id="tspan646">PS</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan648"> </tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#008080"
+           id="tspan650">A</tspan><tspan
+           style="fill:#cccccc"
+           id="tspan652">nalysis at</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan654"> </tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#008080"
+           id="tspan656">MIT</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan658"> </tspan></tspan><tspan
+         x="262.98793"
+         y="512.19891"
+         id="tspan664"><tspan
+           style="fill:#cccccc"
+           id="tspan662">(GAMIT)</tspan></tspan></text>
+  </g>
+</svg>
